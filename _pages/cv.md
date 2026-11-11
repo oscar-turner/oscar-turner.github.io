@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF version]({{ base_path }}/files/Oscar_Turner_CV.pdf)
+[Download PDF version]({{ base_path }}/files/Oscar Turner CV.pdf)
 
 Education
 ======
