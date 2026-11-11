@@ -11,12 +11,10 @@ redirect_from:
 
 [Download PDF version]({{ base_path }}/files/Oscar_Turner_CV.pdf)
 
-Haverford, PA · [oturner@haverford.edu](mailto:oturner@haverford.edu) · [linkedin.com/in/oscar-turner](https://linkedin.com/in/oscar-turner)
-
 Education
 ======
 
-**Haverford College** — B.S. in Physics & Astronomy and B.A. in Philosophy  
+**Haverford College** — B.S. in Physics & Astronomy, Minor Philosophy  
 *Expected May 2029* · GPA: 3.93/4.00
 * Work 20 hours/week across 4 campus jobs on top of a full course load and research.
 * Relevant coursework: Cosmology, Waves and Optics, Extragalactic Data Science, Real Analysis, Differential Equations, Astrophysics, Electricity and Magnetism.
@@ -47,14 +45,13 @@ Teaching Experience
 
 **Teaching Assistant**  
 *Physics and Astronomy Department, Haverford College · Spring 2026–Present*  
-Courses: Electricity and Magnetism, Astrophysics
-* Lead 9 hours/week of physics clinic in introductory courses in electricity and magnetism (Spring 2026) and mechanics (Fall 2027).
+* Lead 9 hours/week of physics clinic in introductory courses in electricity and magnetism (Spring 2026) and mechanics (Fall 2026).
 * Assist 20+ students/week with homework and exam review.
 * Grade weekly homework assignments for a class of 50+.
 
 **Writing Center Tutor**  
-*Writing Center, Haverford College · Fall 2027–Present*
-* Weekly one-on-one mentorship of incoming freshmen writers.
+*Writing Center, Haverford College · Fall 2026–Present*
+* Weekly one-on-one mentorship of first-year writers.
 
 Awards
 ======
